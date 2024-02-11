@@ -1,0 +1,24 @@
+
+
+write with <<setw()<<data1<<setw()<<data2..
+if a string contains a space IT MUST BE REPLACE WITH _ BEFORE PUT TO DATA_BASE
+MODIFIED STRING MUST BE FLAGGED!!! (so we dont confuse them with strings that already contains _)
+map THAT SHIT
+
+
+-get input
+-checks for format (if contains spaces then replace with _ and append it to our map)(if already exists in map then thats even better
+-check data base
+-return result
+
+
+to keep data base indexed with use maps
+to register beginning line and count
+
+
+key :id 
+value :the whole object
+
+
+chaque mat a son ref/id dont le cout
+
